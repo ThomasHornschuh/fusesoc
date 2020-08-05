@@ -12,3 +12,6 @@ fusesoc/version.py
 htmlcov
 tests/build
 tests/cache
+.eggs
+fusesoc.egg-info
+
